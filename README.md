@@ -44,5 +44,27 @@ Prévia
 
 <img width="684" height="375" alt="Captura de tela 2025-02-07 153339" src="https://github.com/user-attachments/assets/409c47f5-b6cf-4006-a3ff-240eaca69a4d" />
 
+# Estrutura de Arquivos
+dashlojaexcel\
+____ Dashboard - neto Veículos.xlsx\
+____ README.md\
+____ LICENSE\
+
+# Como Usar
+Clone este repositório ou baixe o .zip:\
+git clone https://github.com/eriicaof/dashlojaexcel.git.\
+Abra o arquivo Dashboard - Neto Veículos.xlsx no Excel.\
+Atualize os dados na planilha Base de Dados.\
+Navegue pelo painel para visualizar os insights.\
+
+# Origem dos dados
+Dados de vendas de uma empresa de automóveis em fortaleza no ano de 2024, com base em algumas marcas e modelos de carros.
+
+# Requisitos
+Microsoft Excel 2019 ou superior (recomendado Excel 365)
+
+# Licença
+Este projeto está licenciado sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
+
 
 
